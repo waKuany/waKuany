@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @waKuany
 - 👀 I’m interested in many
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning lldb and python
 - 💞️ I’m looking to collaborate on Net
-- 📫 How to reach me Email
+- 📫 How to reach me waKuany@proton.me
 
 <!---
 waKuany/waKuany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
