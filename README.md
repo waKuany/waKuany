@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waKuany
 - 👀 I’m interested in many
-- 🌱 I’m currently learning lldb,python and iosSec
+- 🌱 I’m currently learning **LLDB**, **Frida** and **ios reverse**
 - 💞️ I’m looking to collaborate on Net
 - 📫 How to reach me waKuany@proton.me
 
